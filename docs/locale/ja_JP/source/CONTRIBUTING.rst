@@ -1,5 +1,4 @@
 Contributions Welcome!
-Contributions!
 ======================
 
 We welcome contributions to Hyperledger in many forms, and there's always plenty
